@@ -11,7 +11,7 @@ const Topics = ({ match }) => (
       <ul>
         <li>
           <Link to={`${match.url}/rendering`}>
-            Rendering with React
+            Rendering with React is so easy
           </Link>
         </li>
         <li>
